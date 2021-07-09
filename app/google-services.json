@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357733678040",
+    "project_id": "bawp-3f9a1",
+    "storage_bucket": "bawp-3f9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357733678040:android:76cd572971ce62d13310ad",
+        "android_client_info": {
+          "package_name": "com.webinar.bawp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357733678040-2qu258av4jskq0mqtomup28cbdo9cqe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1ojb6Wr8Z-PjnQSXJJtG8khtx5wEq1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357733678040-2qu258av4jskq0mqtomup28cbdo9cqe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

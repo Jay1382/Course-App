@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BCD4"
+
+    tools:context="Material.Study4Activity">
+
+    <ImageView
+        android:id="@+id/gpay"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="186dp"
+        app:srcCompat="@drawable/ic_gpay"
+        tools:layout_editor_absoluteX="190dp"
+        tools:layout_editor_absoluteY="148dp"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageView
+        android:id="@+id/gpay1"
+        android:layout_below="@+id/gpay"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="186dp"
+        app:srcCompat="@drawable/ic_launcher_background"
+        tools:ignore="VectorDrawableCompat" />
+
+
+</RelativeLayout>
